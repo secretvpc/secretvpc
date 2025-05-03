@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/secretvpc/assets/main/banner.png" alt="SecretVPC banner" title="SecretVPC Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/secretvpc/secretvpc/assets/main/banner.png" alt="SecretVPC banner" title="SecretVPC Banner" width="100%" />
 </p>
 
 # 👋 Welcome to SecretVPC
@@ -40,6 +40,6 @@ We believe that infrastructure thinking deserves clean docs, silent automation, 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/secretvpc/assets/main/logo.svg" alt="SecretVPC Logo" title="SecretVPC Identity Logo" width="80" />
+  <img src="https://raw.githubusercontent.com/secretvpc/secretvpc/assets/main/logo.svg" alt="SecretVPC Logo" title="SecretVPC Identity Logo" width="80" />
 </p>
 
