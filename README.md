@@ -38,8 +38,12 @@ We believe that infrastructure thinking deserves clean docs, silent automation, 
 `Kubernetes (VPC security)` · `Linux` · `Docs-as-Code` · `YouTube-based learning`
 
 ---
+## 📜 License
 
-<p align="center">
+This project is licensed under the [MIT License](./LICENSE).
+
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/secretvpc/secretvpc/main/assets/logo.svg" alt="SecretVPC Logo" title="SecretVPC Identity Logo" width="80" />
-</p>
+</p> -->
+
 
